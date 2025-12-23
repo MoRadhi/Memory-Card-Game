@@ -38,7 +38,7 @@ A sleek, responsive memory card game built with **Vanilla JavaScript** and **Vit
    npm run dev
 Click the local link provided in the terminal (usually http://localhost:5173) to view the game.
 
-🎮 How to Play
+## 🎮 How to Play
 Step 1: Start the Game
 The game loads with all cards face down. The layout is automatically shuffled using a random grid order.
 
